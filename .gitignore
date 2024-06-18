@@ -207,4 +207,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-data/data
+data/train/
+data/valid/
+data/test/
